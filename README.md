@@ -16,7 +16,7 @@ Everything was tested on local node and deployed at localhost.
 
 ___
 
-## **Demo**
+## :tv: **Demo**:
 
 ![coolPixelsGif](/docs/MVP-Cool-Pixels.gif)
 
