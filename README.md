@@ -37,7 +37,9 @@ ___
 ## **NFT**
 
 In the process of creating the application, I was inspired by old 8-bit games, so I draw some pixel parts of body, set rarity of every part and used the most popular [NFT generator](https://github.com/HashLips/hashlips_art_engine) and got these guys.
-
+All pictures are located at [pinita cloud](https://www.pinata.cloud), and after minting you get random picture with special rarity.
+<br />
+<br />
 ![coolPixelsGif](/docs/cool-pixels-nft.gif)
 
 ___
