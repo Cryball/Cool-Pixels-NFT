@@ -71,7 +71,7 @@ npx hardhat run scripts/sample-script.js --network localhost
 
 And finally start app by: 
 ```shell
-npm install
+npm start
 ```
 :warning: If you start project localy, you can connect your MetaMask account, check your balance, but you can't buy nft's, because private keys from pinata cloud are not in github.
 ___
