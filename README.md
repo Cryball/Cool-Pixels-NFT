@@ -76,5 +76,5 @@ npm install
 :warning: If you start project localy, you can connect your MetaMask account, check your balance, but you can't buy nft's, because private keys from pinata cloud are not in github.
 ___
 
-## **Docs**
+## :package: **Docs**
 In docs you can find .mkv full (1,37 min) video mvp and [rus] presentation about internet of the future.
